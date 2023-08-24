@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/projectreact/static/css/main.073c9b0a.css",
-    "main.js": "/projectreact/static/js/main.a806fd9c.js",
+    "main.css": "/projectreact/static/css/main.f8d3cb76.css",
+    "main.js": "/projectreact/static/js/main.c110e568.js",
     "static/js/787.bd4ef7cd.chunk.js": "/projectreact/static/js/787.bd4ef7cd.chunk.js",
-    "static/media/logo.svg": "/projectreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/tumblr_o7wjfwsA5A1ug0at9o1_250.gif": "/projectreact/static/media/tumblr_o7wjfwsA5A1ug0at9o1_250.472f7f6ff2130a957b8b.gif",
+    "static/media/pexels-photo-674010.jpeg": "/projectreact/static/media/pexels-photo-674010.b169e1b3ef55ac0e1756.jpeg",
+    "static/media/wallpapersden.com_levi-ackerman-attack-on-titan_wxl.jpg": "/projectreact/static/media/wallpapersden.com_levi-ackerman-attack-on-titan_wxl.682fb039dfcfe0af995d.jpg",
+    "static/media/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.avif": "/projectreact/static/media/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.673e1561fca0eb820772.avif",
     "index.html": "/projectreact/index.html",
-    "main.073c9b0a.css.map": "/projectreact/static/css/main.073c9b0a.css.map",
-    "main.a806fd9c.js.map": "/projectreact/static/js/main.a806fd9c.js.map",
+    "main.f8d3cb76.css.map": "/projectreact/static/css/main.f8d3cb76.css.map",
+    "main.c110e568.js.map": "/projectreact/static/js/main.c110e568.js.map",
     "787.bd4ef7cd.chunk.js.map": "/projectreact/static/js/787.bd4ef7cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a806fd9c.js"
+    "static/css/main.f8d3cb76.css",
+    "static/js/main.c110e568.js"
   ]
 }
